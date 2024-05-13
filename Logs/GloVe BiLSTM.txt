@@ -1,0 +1,18 @@
+Epoch: 01
+	Train Loss: -152.645 | Train Acc: 50.58%
+	Validation Loss: -300.901 | Validation Acc: 51.61%
+Epoch: 02
+	Train Loss: -322.206 | Train Acc: 50.75%
+	Validation Loss: -330.788 | Validation Acc: 51.61%
+Epoch: 03
+	Train Loss: -338.826 | Train Acc: 50.75%
+	Validation Loss: -333.775 | Validation Acc: 51.61%
+Epoch: 04
+	Train Loss: -340.821 | Train Acc: 50.75%
+	Validation Loss: -334.074 | Validation Acc: 51.61%
+Epoch: 05
+	Train Loss: -340.843 | Train Acc: 50.75%
+	Validation Loss: -334.102 | Validation Acc: 51.61%
+Test Loss: -339.211 | Test Acc: 51.07%
+
+Overall Training Time: 115m51s

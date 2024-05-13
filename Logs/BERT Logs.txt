@@ -1,0 +1,86 @@
+Epoch: 001/007 | Batch 000/1407 | Loss: 0.7085
+Epoch: 001/007 | Batch 150/1407 | Loss: 0.6943
+Epoch: 001/007 | Batch 300/1407 | Loss: 0.7147
+Epoch: 001/007 | Batch 450/1407 | Loss: 0.6685
+Epoch: 001/007 | Batch 600/1407 | Loss: 0.6733
+Epoch: 001/007 | Batch 750/1407 | Loss: 0.6826
+Epoch: 001/007 | Batch 900/1407 | Loss: 0.6828
+Epoch: 001/007 | Batch 1050/1407 | Loss: 0.6738
+Epoch: 001/007 | Batch 1200/1407 | Loss: 0.6647
+Epoch: 001/007 | Batch 1350/1407 | Loss: 0.6698
+Epoch 1/7, Training Loss: 0.6880, Training Accuracy: 0.5787, Validation Accuracy: 0.5664
+Time elapsed: 15.47 min
+Epoch: 002/007 | Batch 000/1407 | Loss: 0.6818
+Epoch: 002/007 | Batch 150/1407 | Loss: 0.6739
+Epoch: 002/007 | Batch 300/1407 | Loss: 0.6606
+Epoch: 002/007 | Batch 450/1407 | Loss: 0.6643
+Epoch: 002/007 | Batch 600/1407 | Loss: 0.6620
+Epoch: 002/007 | Batch 750/1407 | Loss: 0.6736
+Epoch: 002/007 | Batch 900/1407 | Loss: 0.6709
+Epoch: 002/007 | Batch 1050/1407 | Loss: 0.7293
+Epoch: 002/007 | Batch 1200/1407 | Loss: 0.7228
+Epoch: 002/007 | Batch 1350/1407 | Loss: 0.6916
+Epoch 2/7, Training Loss: 0.6838, Training Accuracy: 0.5957, Validation Accuracy: 0.5940
+Time elapsed: 31.91 min
+Epoch: 003/007 | Batch 000/1407 | Loss: 0.6874
+Epoch: 003/007 | Batch 150/1407 | Loss: 0.6461
+Epoch: 003/007 | Batch 300/1407 | Loss: 0.6371
+Epoch: 003/007 | Batch 450/1407 | Loss: 0.7010
+Epoch: 003/007 | Batch 600/1407 | Loss: 0.7365
+Epoch: 003/007 | Batch 750/1407 | Loss: 0.7221
+Epoch: 003/007 | Batch 900/1407 | Loss: 0.6776
+Epoch: 003/007 | Batch 1050/1407 | Loss: 0.6826
+Epoch: 003/007 | Batch 1200/1407 | Loss: 0.6789
+Epoch: 003/007 | Batch 1350/1407 | Loss: 0.6856
+Epoch 3/7, Training Loss: 0.6797, Training Accuracy: 0.6114, Validation Accuracy: 0.6096
+Time elapsed: 47.80 min
+Epoch: 004/007 | Batch 000/1407 | Loss: 0.6912
+Epoch: 004/007 | Batch 150/1407 | Loss: 0.6549
+Epoch: 004/007 | Batch 300/1407 | Loss: 0.6745
+Epoch: 004/007 | Batch 450/1407 | Loss: 0.6743
+Epoch: 004/007 | Batch 600/1407 | Loss: 0.6804
+Epoch: 004/007 | Batch 750/1407 | Loss: 0.6812
+Epoch: 004/007 | Batch 900/1407 | Loss: 0.6702
+Epoch: 004/007 | Batch 1050/1407 | Loss: 0.7186
+Epoch: 004/007 | Batch 1200/1407 | Loss: 0.6469
+Epoch: 004/007 | Batch 1350/1407 | Loss: 0.6827
+Epoch 4/7, Training Loss: 0.6752, Training Accuracy: 0.6038, Validation Accuracy: 0.6056
+Time elapsed: 63.94 min
+Epoch: 005/007 | Batch 000/1407 | Loss: 0.7015
+Epoch: 005/007 | Batch 150/1407 | Loss: 0.6880
+Epoch: 005/007 | Batch 300/1407 | Loss: 0.6767
+Epoch: 005/007 | Batch 450/1407 | Loss: 0.6638
+Epoch: 005/007 | Batch 600/1407 | Loss: 0.6815
+Epoch: 005/007 | Batch 750/1407 | Loss: 0.6878
+Epoch: 005/007 | Batch 900/1407 | Loss: 0.6517
+Epoch: 005/007 | Batch 1050/1407 | Loss: 0.6464
+Epoch: 005/007 | Batch 1200/1407 | Loss: 0.6722
+Epoch: 005/007 | Batch 1350/1407 | Loss: 0.6595
+Epoch 5/7, Training Loss: 0.6728, Training Accuracy: 0.6314, Validation Accuracy: 0.6298
+Time elapsed: 80.38 min
+Epoch: 006/007 | Batch 000/1407 | Loss: 0.6513
+Epoch: 006/007 | Batch 150/1407 | Loss: 0.6490
+Epoch: 006/007 | Batch 300/1407 | Loss: 0.6552
+Epoch: 006/007 | Batch 450/1407 | Loss: 0.6333
+Epoch: 006/007 | Batch 600/1407 | Loss: 0.6530
+Epoch: 006/007 | Batch 750/1407 | Loss: 0.6524
+Epoch: 006/007 | Batch 900/1407 | Loss: 0.6721
+Epoch: 006/007 | Batch 1050/1407 | Loss: 0.6987
+Epoch: 006/007 | Batch 1200/1407 | Loss: 0.6857
+Epoch: 006/007 | Batch 1350/1407 | Loss: 0.6703
+Epoch 6/7, Training Loss: 0.6700, Training Accuracy: 0.5975, Validation Accuracy: 0.5938
+Time elapsed: 97.55 min
+Epoch: 007/007 | Batch 000/1407 | Loss: 0.6582
+Epoch: 007/007 | Batch 150/1407 | Loss: 0.6667
+Epoch: 007/007 | Batch 300/1407 | Loss: 0.6563
+Epoch: 007/007 | Batch 450/1407 | Loss: 0.6471
+Epoch: 007/007 | Batch 600/1407 | Loss: 0.6569
+Epoch: 007/007 | Batch 750/1407 | Loss: 0.6519
+Epoch: 007/007 | Batch 900/1407 | Loss: 0.6535
+Epoch: 007/007 | Batch 1050/1407 | Loss: 0.6770
+Epoch: 007/007 | Batch 1200/1407 | Loss: 0.6270
+Epoch: 007/007 | Batch 1350/1407 | Loss: 0.6263
+Epoch 7/7, Training Loss: 0.6679, Training Accuracy: 0.6345, Validation Accuracy: 0.6296
+Time elapsed: 113.60 min
+Total Training Time: 113.60 min
+Test Accuracy: 0.6319
