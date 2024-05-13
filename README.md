@@ -1,2 +1,3 @@
 # sentiment-analysis
-Deep Learning for Sentiment Analysis and Transfer Learning
+
+Utilizing deep learning methodologies, this project investigates sentiment analysis and transfer learning techniques. The IMDB movie reviews dataset serves as the foundation for conducting binary sentiment analysis (positive/negative) employing a custom made Recurrent Neural Network architecture. Subsequently, this pre-trained model is employed for transfer learning on the Amazon Customer Reviews dataset. Various architectural designs, embedding strategies, and pre-trained models, including GloVe embeddings and transformer models, are systematically explored and evaluated.
